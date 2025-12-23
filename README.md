@@ -1,12 +1,27 @@
-# Projeto-Multiplataforma
-Este foi o último projeto entregue, proposto pela faculdade, em que
-criamos uma empresa fictícia chamada IRTVM | Cursos, uma escola de tecnologia para formar
-profissionais de T.I. Desenvolvemos um site institucional com informações sobre a escola e um
-dashboard que reunia conteúdo dos cursos, frequência e notas dos alunos.
-O trabalho foi feito em dupla, e assumi o desenvolvimento completo, frontend e backend. Apesar
-das dificuldades, concluímos com sucesso. Utilizei PHP para implementar login e CRUD dos
-dados dos alunos e JavaScript para tornar o sistema mais interativo. Também nos preocupamos
-em criar um site responsivo, adaptado para PCs e smartphones.
-Na infraestrutura, utilizamos MySQL para armazenar as informações de forma simples e
-hospedamos o site em um servidor com suporte a PHP, garantindo integração e funcionalidade
-adequadas às necessidades do projeto.
+# Education Platform Dashboard – PHP & MySQL
+
+Projeto acadêmico multiplataforma desenvolvido para uma empresa fictícia chamada IRTVM | Cursos, uma escola de tecnologia voltada à formação de profissionais de T.I.
+
+O sistema consiste em um site institucional integrado a um dashboard administrativo, responsável por gerenciar informações acadêmicas como conteúdos dos cursos, frequência e notas dos alunos.
+
+O projeto foi desenvolvido em dupla, sendo que assumi integralmente o desenvolvimento frontend e backend da aplicação. Apesar dos desafios técnicos enfrentados durante o processo, o sistema foi concluído com sucesso, atendendo aos requisitos propostos.
+
+No backend, utilizei PHP para implementação de autenticação de usuários (login) e operações CRUD dos dados dos alunos. O banco de dados MySQL foi utilizado para armazenamento das informações, garantindo persistência e organização dos dados. No frontend, utilizei JavaScript para melhorar a interatividade do sistema e HTML/CSS para estrutura e estilização.
+
+O sistema foi projetado para ser responsivo, adaptando-se a diferentes tamanhos de tela, incluindo computadores e smartphones. A aplicação foi hospedada em um servidor com suporte a PHP, garantindo integração adequada entre frontend, backend e banco de dados.
+
+## Tecnologias Utilizadas
+- PHP
+- MySQL
+- JavaScript
+- HTML5
+- CSS3
+
+## Funcionalidades
+- Login de usuários
+- Dashboard acadêmico
+- Cadastro, edição e exclusão de alunos (CRUD)
+- Exibição de cursos, frequência e notas
+- Layout responsivo
+
+Projeto desenvolvido com fins acadêmicos, demonstrando conhecimentos em desenvolvimento web full stack.
